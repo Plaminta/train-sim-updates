@@ -5,8 +5,8 @@
       "date": "31 октября 2026",
       "title": "Обновление 0.1.1",
       "description": "Обновления ДНЦ Пульта, добавлена поддержка микрофона, настройки ввода и вывода.",
-      "image": "image/news1.png",
-      "link": "https://vk.com/ваша_ссылка",
+      "image": "https://raw.githubusercontent.com/Plaminta/train-sim-updates/main/news2.png",
+      "link": "https://discord.com/channels/1566009723931721738/1566012049207730247/1566079529280208986",
       "isNew": true
     },
     {
@@ -14,9 +14,9 @@
       "date": "30 октября 2026",
       "title": "Обновление 0.1.0",
       "description": "Добавлен пульт ДНЦ, реалистичные тормоза и поддержка никнеймов.",
-      "image": "image/news1.png",
-      "link": "https://vk.com/ваша_ссылка",
-      "isNew": true
+      "image": "https://raw.githubusercontent.com/Plaminta/train-sim-updates/main/news1.png",
+      "link": "",
+      "isNew": false
     },
     {
       "version": "0.0.9",
