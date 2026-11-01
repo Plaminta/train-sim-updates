@@ -3,13 +3,22 @@
   "game_download_url": "https://github.com/Plaminta/train-sim-updates/releases/download/testversion/trainsimulator.zip",
   "updates": [
     {
+      "version": "0.1.2",
+      "date": "1 ноября 2026",
+      "title": "Обновление Лаунчера 0.1.0",
+      "description": "Полное обновление лаунчера игры, добавлена установка игры, проверка файлов, выбор фона в лаунчере.",
+      "image": "",
+      "link": "",
+      "isNew": true
+    },
+    {
       "version": "0.1.1",
       "date": "31 октября 2026",
       "title": "Обновление 0.1.1",
       "description": "Обновления ДНЦ Пульта, добавлена поддержка микрофона, настройки ввода и вывода.",
       "image": "https://raw.githubusercontent.com/Plaminta/train-sim-updates/main/news2.png",
       "link": "https://discord.com/channels/1566009723931721738/1566012049207730247/1566079529280208986",
-      "isNew": true
+      "isNew": false
     },
     {
       "version": "0.1.0",
